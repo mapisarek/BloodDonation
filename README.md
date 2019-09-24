@@ -2,7 +2,7 @@
 
 Project created during classes in programming ASP.NET web technology.
 The task received from the teacher was to create a website for the regional blood donation center.
-The requirements were the ability to enter a CSV file on the page, create validation of the entered data, and display incorrect records. As an addition to the main page, I also created a chart that is determined based on the amount of blood in a given type in the bank.
+The requirements were as following: the ability to enter a CSV file on the page, create validation of the entered data, and display incorrect records. As an addition to the main page, I also created a chart that is determined based on the amount of blood in a given type in the bank.
 
 ## Features
 
