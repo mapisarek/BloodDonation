@@ -25,3 +25,7 @@ Because of the imposed requirements, the entire frontend is presented in Polish,
 
 ### Pictures shown below are available in a reduced resolution, full pictures are avalible in Preview folder inside repository.
 
+<img src="https://github.com/mapisarek/BloodDonation/blob/master/Preview/MainPage.png" width=700 height=400/>
+<img src="https://github.com/mapisarek/BloodDonation/blob/master/Preview/Information.png" width=700 height=400/>
+<img src="https://github.com/mapisarek/BloodDonation/blob/master/Preview/Statistics.png" width=700 height=400/>
+<img src="https://github.com/mapisarek/BloodDonation/blob/master/Preview/InvalidRecords.png" width=700 height=400/>
